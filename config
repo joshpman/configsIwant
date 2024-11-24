@@ -1,6 +1,0 @@
-Host guardian
-	HostName guardian.it.mtu.edu
-	User jpearlma
-Host linode
-	HostName 172.232.28.96
-	User root
