@@ -1,0 +1,23 @@
+2024/11/28-16:33:43.184 14304 Reusing MANIFEST /home/josh/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/11/28-16:33:43.195 14304 Recovering log #49
+2024/11/28-16:33:43.195 14304 Reusing old log /home/josh/.config/discord/Local Storage/leveldb/000049.log 
+2024/11/28-16:37:20.175 14305 Level-0 table #53: started
+2024/11/28-16:37:20.214 14305 Level-0 table #53: 867475 bytes OK
+2024/11/28-16:37:20.218 14305 Delete type=0 #49
+2024/11/28-16:37:20.219 14305 Compacting 4@0 + 2@1 files
+2024/11/28-16:37:20.238 14305 Generated table #54@0: 9 keys, 2434601 bytes
+2024/11/28-16:37:20.261 14305 Generated table #55@0: 35 keys, 883084 bytes
+2024/11/28-16:37:20.261 14305 Compacted 4@0 + 2@1 files => 3317685 bytes
+2024/11/28-16:37:20.265 14305 compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/11/28-16:37:20.265 14305 Delete type=2 #45
+2024/11/28-16:37:20.265 14305 Delete type=2 #50
+2024/11/28-16:37:20.265 14305 Delete type=2 #43
+2024/11/28-16:37:20.265 14305 Delete type=2 #42
+2024/11/28-16:37:20.265 14305 Delete type=2 #53
+2024/11/28-16:37:20.265 14305 Delete type=2 #48
+2024/11/30-11:17:23.999 14304 Level-0 table #57: started
+2024/11/30-11:17:24.009 14304 Level-0 table #57: 55259 bytes OK
+2024/11/30-11:17:24.015 14304 Delete type=0 #52
+2024/11/30-12:10:04.991 14305 Level-0 table #59: started
+2024/11/30-12:10:05.017 14305 Level-0 table #59: 2433984 bytes OK
+2024/11/30-12:10:05.024 14305 Delete type=0 #56
